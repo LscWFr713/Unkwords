@@ -1,0 +1,9 @@
+{
+    "name": "tu-proyecto",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "archivo-interfaz.js",
+    "scripts": {
+      "start": "node archivo-interfaz.js"
+    }
+  }
